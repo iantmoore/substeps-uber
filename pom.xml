@@ -11,7 +11,7 @@
     <modules>
       <module>substeps-api</module>
       <module>substeps-core</module>
-      <module>substeps-runner-parent</module>  
+      <module>substeps-runner</module>  
     </modules>
 
     <properties>

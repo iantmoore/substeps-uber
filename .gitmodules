@@ -1,0 +1,9 @@
+[submodule "substeps-api"]
+	path = substeps-api
+	url = git@github.com:iantmoore/substeps-api.git
+[submodule "substeps-core"]
+	path = substeps-core
+	url = git@github.com:iantmoore/substeps-core.git
+[submodule "substeps-runner"]
+	path = substeps-runner
+	url = git@github.com:iantmoore/substeps-runner.git
